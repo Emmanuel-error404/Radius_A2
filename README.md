@@ -16,8 +16,6 @@ Implementar una infraestructura de administración segura donde R1 y SW1 utilice
 
 ## Topología
 
-![Topología GNS3](docs/evidencias/topologia_gns3.png)
-
 ```mermaid
 flowchart LR
   R1["R1 c7200\n10.7.98.1"] --- SW1["SW1 vIOS-L2\n10.7.98.2"]
