@@ -1,7 +1,6 @@
 # P1 — Seguridad de Redes: Cisco AAA + RADIUS/NPS + Active Directory
 
 > 🎥 **Video demostrativo (YouTube):** `PEGAR_AQUI_ENLACE_DEL_VIDEO`  
-> 📦 **Entregable TXT:** `EmmanuelRodriguez_20250798_P1.txt`
 
 **Autor:** Emmanuel Orlando Rodríguez Núñez  
 **Matrícula:** 20250798  
