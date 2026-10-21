@@ -106,12 +106,4 @@ La infraestructura fue validada en laboratorio con las siguientes evidencias:
 - Accounting y registros de autenticación habilitados.
 - Running-configs y scripts incluidos en el repositorio.
 
-> El único dato externo que debe sustituirse antes de publicar la entrega es `PEGAR_AQUI_ENLACE_DEL_VIDEO` por el enlace real de YouTube.
 
-## Documentación y evidencias
-
-Consulta [docs/evidencias/README.md](docs/evidencias/README.md) para saber qué demuestra cada captura y revisar las observaciones de evidencia para el video.
-
----
-
-> **Advertencia:** `Cisco1234` es una credencial desechable de laboratorio exigida para esta práctica. No reutilizarla en entornos reales.
